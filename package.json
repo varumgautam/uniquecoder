@@ -1,0 +1,25 @@
+{
+  "name": "web-bootstrap",
+  "version": "1.0.0",
+  "description": "website bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "website code"
+  },
+  "keywords": [
+    "webside",
+    "code",
+    "code",
+    "coder"
+  ],
+  "author": "varun gautam",
+  "license": "MIT",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "sever": "^0.0.2"
+  }
+}
